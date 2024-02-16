@@ -28,14 +28,3 @@ if (numero1 !== numero2 && numero1 > 0 && numero2 > 0) {
 }
 
 
-
-// ejercicio 2 - temperatura
-
-
-
-// ejercicio 3 - días
-
-
-
-
-// ejercicio 4 - cálculos
